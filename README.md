@@ -33,6 +33,8 @@ PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 
 (Há outras tecnologias, mas as principais nesse primeiro momento foram essas!)
 
+<div align="center">
 <h2>Autora 👩🏻‍💻</h2>
 <p>Feito com ❤️ por Mariana Campos 👋🏽 Entre em contato!</p>
 <a href="https://www.linkedin.com/in/mariana-campos-br/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4FBDC8?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/"></a> <a href="mailto:marianacristinadecampos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E346B9?style=flat&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com"></a>
+</div>
