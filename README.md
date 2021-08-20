@@ -15,7 +15,7 @@ PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 <h3>1) Faça a instação do repositório</h3>
 
 ![passoInstalacao](assets/passoInstalacao.png)
-<h4>Depois disso, basta abrir com um programa de sua preferência eu recomendo o <a href="https://code.visualstudio.com/download">Visual Studio Code</a>).</h4>
+<h4>Depois disso, basta abrir com um programa de sua preferência (eu recomendo o <a href="https://code.visualstudio.com/download">Visual Studio Code</a>).</h4>
 <h3>2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um Ctrl + "</h3
 
 ![passo1](assets/passo1.png)
