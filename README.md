@@ -15,7 +15,7 @@ PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 <h3>1) Faça a instação do repositório</h3>
 
 ![passoInstalacao](assets/passoInstalacao.png)
-<h4>Depois disso, basta abrir com um programa de sua preferência (eu recomendo o [Visual Studio Code](https://code.visualstudio.com/download)).</h4>
+<h4>Depois disso, basta abrir com um programa de sua preferência eu recomendo o <a href="https://code.visualstudio.com/download">Visual Studio Code</a>).</h4>
 <h3>2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um Ctrl + "</h3
 
 ![passo1](assets/passo1.png)
@@ -33,6 +33,6 @@ PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 
 (Há outras tecnologias, mas as principais nesse primeiro momento foram essas!)
 
-<h2>Autora</h2>
+<h2>Autora 👩🏻‍💻</h2>
 <p>Feito com ❤️ por Mariana Campos 👋🏽 Entre em contato!</p>
 <a href="https://www.linkedin.com/in/mariana-campos-br/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4FBDC8?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/"></a> <a href="mailto:marianacristinadecampos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E346B9?style=flat&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com"></a>
