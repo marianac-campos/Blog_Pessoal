@@ -12,23 +12,23 @@ Para rodar o projeto você pode ir para o repositório do [projeto final](https:
 
 PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 
-<h4>1) Faça a instação do repositório</h4>
+<h3>1) Faça a instação do repositório</h3>
 
 ![passoInstalacao](assets/passoInstalacao.png)
 <h4>Depois disso, basta abrir com um programa de sua preferência (eu recomendo o [Visual Studio Code](https://code.visualstudio.com/download)).</h4>
-<h4>2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um Ctrl + "</h4>
+<h3>2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um Ctrl + "</h3
 
 ![passo1](assets/passo1.png)
-<h4>3) Para finalizar escreva no console "ng serve -o" para iniciar (o '-o' abrirá automaticamente a aplicação)</h4>
+<h33) Para finalizar escreva no console "ng serve -o" para iniciar (o '-o' abrirá automaticamente a aplicação)</h3
 
 ![passo2](assets/passo2.png)
 
 ---
 
 ## Tecnologias Utilizadas 💻
-- [HTML5]
-- [CSS3]
-- [TypeScript]
+- HTML5
+- CSS3
+- TypeScript
 - [Angular](https://angular.io)
 
 (Há outras tecnologias, mas as principais nesse primeiro momento foram essas!)
