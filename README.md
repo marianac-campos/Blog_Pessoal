@@ -8,9 +8,9 @@
 ----
 
 ## Demonstração 🎬 
-Para rodar o projeto você pode ir para o repositório do [projeto final](https://github.com/marianac-campos/Blog_Pessoal.v3) onde já foi feito o deploy, OU, poderá baixar a versão zip do repositório e acessar pelo endereço [local](localhost:4200/#/login), ou se preferir `localhost:4200/#/login`.
+Para rodar o projeto você pode ir para o **repositório do** [**projeto final**](https://github.com/marianac-campos/Blog_Pessoal.v3) onde já foi feito o deploy, **OU**, poderá baixar a **versão zip** do repositório e acessar pelo endereço [local](localhost:4200/#/login), ou se preferir `localhost:4200/#/login`.
 
-PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
+**PARA MAIS DETALHES SIGA O PASSO A PASSO** 👇
 
 <h3>1) Faça a instação do repositório</h3>
 
@@ -29,7 +29,7 @@ PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 - HTML5
 - CSS3
 - TypeScript
-- [Angular](https://angular.io)
+- Angular
 
 (Há outras tecnologias, mas as principais nesse primeiro momento foram essas!)
 
