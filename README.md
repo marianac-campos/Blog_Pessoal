@@ -2,13 +2,13 @@
 
 <h2 align="center">Repositório do Frontend do Blog Pessoal</h2>
 
-<h4 align="center"> 🚧 Frontend - Blog Pessoal 📝 Em construção 🚧 </h4>
-<h4 align="center"> Estou trabalhando na estilização do site, em breve estará concluido! </h4>
+<h4 align="center"> ✅ Frontend - Blog Pessoal 📝 Concluído ✅ </h4>
+<h4 align="center"> Tudo em ordem! Qualquer atualização a mais será feito apenas no repositório do <a href="https://github.com/marianac-campos/Blog_Pessoal.v3">projeto final</a>.</h4>
 
 ----
 
 ## Demonstração 🎬 
-Para rodar o projeto você pode ir para o repositório do [projeto final](https://github.com/marianac-campos/Blog_Pessoal.v3) onde já está feito o deploy, ou baixar a versão zip do repositório e acessar pelo endereço [local](localhost:4200/#/login).
+Para rodar o projeto você pode ir para o repositório do [projeto final](https://github.com/marianac-campos/Blog_Pessoal.v3) onde já foi feito o deploy, OU, poderá baixar a versão zip do repositório e acessar pelo endereço [local](localhost:4200/#/login), ou se preferir `localhost:4200/#/login`.
 
 PARA MAIS DETALHES SIGA O PASSO A PASSO 👇
 
