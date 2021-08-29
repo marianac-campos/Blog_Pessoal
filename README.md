@@ -8,7 +8,7 @@
 ----
 
 ## Demonstração 🎬 
-Para rodar o projeto você pode ir para o **repositório do** [**projeto final**](https://github.com/marianac-campos/Blog_Pessoal.v3) onde já foi feito o deploy, **OU**, poderá baixar a **versão zip** do repositório e acessar pelo endereço [local](localhost:4200/#/login), ou se preferir `localhost:4200/#/login`.
+Para rodar o projeto você pode ir para o **repositório do** [**projeto final**](https://github.com/marianac-campos/Blog_Pessoal.v3) onde já foi feito o deploy, **OU**, poderá baixar a **versão zip** do repositório e acessar pelo endereço `localhost:4200/#/login` (*lembrando que dessa forma só irá funcionar se estiver rodado o projeto na sua máquina*).
 
 **PARA MAIS DETALHES SIGA O PASSO A PASSO** 👇
 
