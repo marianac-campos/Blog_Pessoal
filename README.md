@@ -20,7 +20,7 @@ Para rodar o projeto você pode ir para o **repositório do** [**projeto final**
 ### 2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um `Ctrl + "`
 ![passo1](assets/passo1.png)
 
-### 3) Para finalizar escreva no console `ng serve -o` para iniciar (*o '-o' abrirá automaticamente a aplicação*) 
+### 3) Para finalizar digite `npm i` para instalar todas as dependência e depois digite `ng serve -o` para iniciar (*o '-o' abrirá automaticamente a aplicação*) 
 ![passo2](assets/passo2.png)
 
 ---
