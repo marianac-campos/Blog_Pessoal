@@ -12,15 +12,15 @@ Para rodar o projeto você pode ir para o **repositório do** [**projeto final**
 
 **PARA MAIS DETALHES SIGA O PASSO A PASSO** 👇
 
-<h3>1) Faça a instação do repositório</h3>
-
+### 1) Faça a instação do repositório
 ![passoInstalacao](assets/passoInstalacao.png)
-<h4>Depois disso, basta abrir com um programa de sua preferência (eu recomendo o <a href="https://code.visualstudio.com/download">Visual Studio Code</a>).</h4>
-<h3>2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um Ctrl + "</h3
 
+#### Depois disso, basta abrir com um programa de sua preferência (*eu recomendo o [**Visual Studio Code**](https://code.visualstudio.com/download)*).
+
+### 2) Após aberto, clique com o botão direito em baixo dos arquivo ou simplesmente dê um `Ctrl + "`
 ![passo1](assets/passo1.png)
-<h33) Para finalizar escreva no console "ng serve -o" para iniciar (o '-o' abrirá automaticamente a aplicação)</h3
 
+### 3) Para finalizar escreva no console `ng serve -o` para iniciar (*o '-o' abrirá automaticamente a aplicação*) 
 ![passo2](assets/passo2.png)
 
 ---
